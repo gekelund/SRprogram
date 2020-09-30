@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+About
+This site is made for a friend to be able to search SR programs.
+
 ## Available Scripts
 
 In the project directory, you can run:
